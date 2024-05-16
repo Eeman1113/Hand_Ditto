@@ -1,0 +1,10 @@
+matplotlib==3.7.1
+numpy==1.25.0
+pandas==2.2.2
+pandas_stubs==1.2.0.49
+scikit_learn==1.4.2
+scipy==1.13.0
+svgwrite==1.4.3
+tensorflow==2.16.1
+tensorflow_macos==2.8.0
+tensorflow_probability==0.12.2
