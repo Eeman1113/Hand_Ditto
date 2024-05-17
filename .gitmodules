@@ -4,3 +4,9 @@
 [submodule "Ghostmander_Var/Ghostmander_Ver/handwriting-synthesis"]
 	path = Ghostmander_Var/Ghostmander_Ver/handwriting-synthesis
 	url = https://github.com/ghostmander/handwriting-synthesis.git
+[submodule "Otuva_Ver/handwriting-synthesis"]
+	path = Otuva_Ver/handwriting-synthesis
+	url = https://github.com/otuva/handwriting-synthesis.git
+[submodule "Ghostmander_Ver/handwriting-synthesis"]
+	path = Ghostmander_Ver/handwriting-synthesis
+	url = https://github.com/ghostmander/handwriting-synthesis.git
