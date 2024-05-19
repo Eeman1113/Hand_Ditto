@@ -1,5 +1,3 @@
-Sure! Below is an updated version of your `README.md` to include the installation of additional dependencies using `pip`:
-
 # Hand_Ditto
 
 Welcome to **Hand_Ditto**, a whimsical project where code meets art! 🎨✨
